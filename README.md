@@ -18,7 +18,7 @@ src=(“https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/YOUTUBE%2
 I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
 <a href=”https://www.shapeai.tech”> www.shapeai.tech</a>
 or follow SHAPEAI ON:
-<li><a href=”https://in.linkedin.com/company/shapeai”>LinkedIN</a>
+<li><a href=”www.in.linkedin.com/company/shapeai”>LinkedIN</a>
 <li><a href=
 ”www.instagram.com/shape.ai/?hl=en”>Instagram</a>
 <li><a href=
